@@ -2,7 +2,7 @@
 <h2>Projeto AgendaApp</h2>
 </br>
 <div align="center">
-  <img src="assets/Tela-inicial-AgendaApp.png" width="75%" />
+  <img src=" agenda-app/agenda-app/assets/Tela-inicial-AgendaApp.png" width="75%" />
 </div>
 </br>
 
@@ -12,7 +12,7 @@
 <h2>Diagrama de Classes</h2>
 </br>
 <div align="center">
-  <img src="assets/Diagrama-de-classes-AgendaApp.png" width="90%" />
+  <img src="agenda-app/agenda-app/assets/Diagrama-de-classes-AgendaApp.png" width="90%" />
 </div>
 
 <br>
